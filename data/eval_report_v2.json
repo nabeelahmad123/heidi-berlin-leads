@@ -1,0 +1,116 @@
+{
+  "summary": {
+    "sites_scored": 13,
+    "class_accuracy": 0.818,
+    "decision_maker_recall": 1.0,
+    "decision_maker_precision": 1.0,
+    "units_exact": "1/2",
+    "portfolio_agreement": "6/8"
+  },
+  "sites": [
+    {
+      "domain": "mende-grundbesitz.de",
+      "status": "fixed_on_attempt_2",
+      "class": "yes / yes",
+      "people_found": "2/2",
+      "extra_people": [],
+      "units": "None / 3000"
+    },
+    {
+      "domain": "gewobe.de",
+      "status": "fixed_on_attempt_2",
+      "class": "yes / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "hans-teichner.de",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "stegos.net",
+      "status": "fixed_on_attempt_2",
+      "class": "unclear / unknown",
+      "people_found": "0/0",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "abos-immobilien.de",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "gwd-immo.de",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "2/2",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "weinkamm.berlin",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "anhuth-immobilien.de",
+      "status": "fixed_on_attempt_2",
+      "class": "partly / no",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "groeben-immobilien.com",
+      "status": "ok",
+      "class": "partly / partly",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "boden-finanz.de",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "2/2",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "esta-haus.de",
+      "status": "fixed_on_attempt_2",
+      "class": "unclear / unknown",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "flagg-hv.de",
+      "status": "ok",
+      "class": "unclear / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "None / -"
+    },
+    {
+      "domain": "hkl-schoenberg.de",
+      "status": "ok",
+      "class": "yes / yes",
+      "people_found": "1/1",
+      "extra_people": [],
+      "units": "900 / 900"
+    }
+  ]
+}

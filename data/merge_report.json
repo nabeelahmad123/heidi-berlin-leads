@@ -1,0 +1,26 @@
+{
+  "listings_per_source": {
+    "Das Örtliche": 905,
+    "Gelbe Seiten": 609,
+    "VDIV": 289,
+    "11880": 50
+  },
+  "companies_per_source": {
+    "11880": 50,
+    "Das Örtliche": 881,
+    "Gelbe Seiten": 484,
+    "VDIV": 289
+  },
+  "pairwise_overlap": {
+    "VDIV & Gelbe Seiten": 36,
+    "VDIV & Das Örtliche": 60,
+    "VDIV & 11880": 6,
+    "Gelbe Seiten & Das Örtliche": 383,
+    "Gelbe Seiten & 11880": 11,
+    "Das Örtliche & 11880": 16
+  },
+  "unique_companies": 1232,
+  "with_website": 391,
+  "with_contact_person": 254,
+  "in_2plus_sources": 432
+}

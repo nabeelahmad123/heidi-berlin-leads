@@ -1,0 +1,19 @@
+.env
+.DS_Store
+raw/
+__pycache__/
+*.pyc
+output/video_script.md
+output/approach.html
+# data/: only the files behind the README numbers
+data/*
+!data/leads.csv
+!data/pilot_labels.csv
+!data/eval_report_v1.json
+!data/eval_report_v2.json
+!data/eval_report_v3.json
+!data/spotcheck.csv
+!data/corrections.csv
+!data/check_log.jsonl
+!data/merge_report.json
+!data/openers.csv

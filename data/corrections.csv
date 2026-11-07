@@ -1,0 +1,7 @@
+domain,field,old_value,new_value,evidence,reviewer_note
+mende-grundbesitz.de,units_managed,1924,3000,"Wir verwalten aktuell über 3000 Einheiten.","Extractor took one line of a breakdown (1056 WEG + 1924 Wohn/Gewerbe); the site states the total elsewhere."
+hv-manthei.de,status,needs_review,reviewed,"Bereits in der dritten Generation verwalten und betreuen wir für unsere Auftraggeber Immobilien in Berlin und Umgebung. Neben allen Aufgaben der WEG- und Miethausverwaltung","Quote is real but sat outside the excerpt the model saw, so the grounding check could not confirm it. Confirmed by reading the full page."
+as-construction.de,is_property_manager,,partly,"aufgeteilt auf die Geschäftsbereiche Entwicklung, Management, Hausverwaltung und Verkauf","Developer with a property-management division; no usable model output. Unit figure on the page is ambiguous, left empty."
+proplink.de,decision_makers,,Stefan Merten (Geschäftsführer),"Geschäftsführer: Stefan Merten","Impressum is at /de/imprint; the excerpt only looked for 'impressum' in the URL. Code fixed for future runs."
+ralph-hv.de,decision_makers,,Julius Gunnemann (Geschäftsführer); Ingo Schatz (Geschäftsführer),"Geschäftsführer: Julius Gunnemann Geschäftsführer: Ingo Schatz","Cookie banner mentions 'Datenschutzerklärung' before the company details and the boilerplate cut removed them. Code fixed for future runs."
+as-construction.de,decision_makers,,Stephan Gumz (Geschäftsführung),"Geschäftsführung Dipl.-Kfm. Stephan Gumz","No usable model output for this site (needs review); name read from the Impressum."

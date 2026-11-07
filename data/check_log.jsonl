@@ -1,0 +1,135 @@
+{"ts": "2026-11-07T13:07:08.098611+00:00", "domain": "hkl-schoenberg.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:17:52.227683+00:00", "domain": "hkl-schoenberg.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:17:54.942815+00:00", "domain": "valida-gmbh.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:19.452245+00:00", "domain": "mende-grundbesitz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:22.038105+00:00", "domain": "gewobe.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:24.464643+00:00", "domain": "hans-teichner.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:26.125600+00:00", "domain": "stegos.net", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: \"Excerpt only shows a redirect title 'Umleitung nach stegos.de' and an impressum \""]}
+{"ts": "2026-11-07T13:18:27.630556+00:00", "domain": "stegos.net", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:30.568745+00:00", "domain": "abos-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:33.224978+00:00", "domain": "gwd-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:35.307015+00:00", "domain": "weinkamm.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:38.020265+00:00", "domain": "anhuth-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:40.626211+00:00", "domain": "groeben-immobilien.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:43.555243+00:00", "domain": "boden-finanz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:45.690044+00:00", "domain": "esta-haus.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:47.462550+00:00", "domain": "flagg-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:49.136778+00:00", "domain": "030bln.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Excerpt is a contact page for an office/asset management project at Alexanderpla'"]}
+{"ts": "2026-11-07T13:18:51.162218+00:00", "domain": "030bln.com", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:53.839850+00:00", "domain": "wvg-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:18:56.256263+00:00", "domain": "sana-verwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Ihr Wohnungsverwalter – SANA Verwaltungs GmbH & Co. KG; Mietverwaltung und WEG-V'"]}
+{"ts": "2026-11-07T13:18:58.534841+00:00", "domain": "sana-verwaltung.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:19:00.991350+00:00", "domain": "abel-hausverwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:05.277112+00:00", "domain": "mende-grundbesitz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["units_managed: number 2980 does not appear in its evidence quote"]}
+{"ts": "2026-11-07T13:21:07.849709+00:00", "domain": "mende-grundbesitz.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:10.507863+00:00", "domain": "gewobe.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Ihr Partner für Haus- und Wohneigentumsverwaltung; Leistungen WEG- und Hausverwa'"]}
+{"ts": "2026-11-07T13:21:13.134571+00:00", "domain": "gewobe.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:15.457786+00:00", "domain": "hans-teichner.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:17.101693+00:00", "domain": "stegos.net", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Excerpt is only a redirect notice to stegos.de with an Impressum link; it does n'"]}
+{"ts": "2026-11-07T13:21:18.573337+00:00", "domain": "stegos.net", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:20.926807+00:00", "domain": "abos-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:23.649311+00:00", "domain": "gwd-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:25.446175+00:00", "domain": "weinkamm.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:28.087325+00:00", "domain": "anhuth-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Vermietung von Wohn- und Gewerbeflächen; Erarbeitung von Vermietungsstrategien, '"]}
+{"ts": "2026-11-07T13:21:30.624321+00:00", "domain": "anhuth-immobilien.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:33.266604+00:00", "domain": "groeben-immobilien.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:36.152794+00:00", "domain": "boden-finanz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:38.550818+00:00", "domain": "esta-haus.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Excerpt shows only a rental listings site (\"Mietangebote\", \"Übersicht der Mietwo'"]}
+{"ts": "2026-11-07T13:21:40.177968+00:00", "domain": "esta-haus.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:42.382816+00:00", "domain": "flagg-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:45.046474+00:00", "domain": "hkl-schoenberg.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:21:46.669751+00:00", "domain": "030bln.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Excerpt only shows contacts from Covivio Asset Management Office and Cushman & W'"]}
+{"ts": "2026-11-07T13:21:48.330358+00:00", "domain": "030bln.com", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Contacts Janine Schreiner Covivio — Asset Management Office; Carlo Czarnecki Cus'"]}
+{"ts": "2026-11-07T13:23:20.273589+00:00", "domain": "mende-grundbesitz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:23.356737+00:00", "domain": "gewobe.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:25.798507+00:00", "domain": "hans-teichner.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:27.601546+00:00", "domain": "stegos.net", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:30.331447+00:00", "domain": "abos-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:33.619791+00:00", "domain": "gwd-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:35.305735+00:00", "domain": "weinkamm.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:38.020335+00:00", "domain": "anhuth-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:40.794095+00:00", "domain": "groeben-immobilien.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:44.022449+00:00", "domain": "boden-finanz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:46.277743+00:00", "domain": "esta-haus.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:48.200018+00:00", "domain": "flagg-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:51.128947+00:00", "domain": "hkl-schoenberg.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:53.152414+00:00", "domain": "030bln.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:55.755300+00:00", "domain": "wvg-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:23:59.200076+00:00", "domain": "valida-gmbh.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:02.015601+00:00", "domain": "sana-verwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:04.802518+00:00", "domain": "abel-hausverwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:46.425086+00:00", "domain": "berlinfacility.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:49.194687+00:00", "domain": "innovateimmo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:51.869932+00:00", "domain": "vilicus-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:55.028851+00:00", "domain": "mischke-partner.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:24:57.817481+00:00", "domain": "wgbg.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:01.322354+00:00", "domain": "as-construction.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["decision_maker Stephan Gumz: evidence quote not found verbatim in the excerpt: 'Stephan Gumz ist alleiniger Geschäfts\\xadführer'"]}
+{"ts": "2026-11-07T13:25:04.706235+00:00", "domain": "as-construction.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": false, "errors": ["units_managed: evidence quote not found verbatim in the excerpt: 'verwalten 11.806 Wohnungen'"]}
+{"ts": "2026-11-07T13:25:11.444369+00:00", "domain": "as-construction.de", "attempt": 3, "model": "claude-sonnet-5-5", "step": "escalated", "passed": false, "errors": ["no usable tool call (cut off or missing); call record_company with short quotes"]}
+{"ts": "2026-11-07T13:25:14.465510+00:00", "domain": "shk-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:17.397413+00:00", "domain": "eurix-hausverwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:20.077494+00:00", "domain": "prodomus-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:23.324147+00:00", "domain": "estavio.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:26.302258+00:00", "domain": "hochheiden-hausverwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:29.338045+00:00", "domain": "asset.one", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:32.107386+00:00", "domain": "walter360.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:35.227749+00:00", "domain": "rbb-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:38.404208+00:00", "domain": "bayerische-immobilien-management.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:41.128698+00:00", "domain": "bobbe-hausverwaltung.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:44.190839+00:00", "domain": "nymwegen.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:47.068448+00:00", "domain": "elovate-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:50.100423+00:00", "domain": "hv-klett.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:52.898553+00:00", "domain": "homin24.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:55.827502+00:00", "domain": "vivanta-homes.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:25:58.885377+00:00", "domain": "ruedrich-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:01.697815+00:00", "domain": "hausverwaltung-montag.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:05.826974+00:00", "domain": "daily-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:08.895897+00:00", "domain": "immobilienverwaltung.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:11.612129+00:00", "domain": "immobilia-concept.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:15.032926+00:00", "domain": "maikowskialscher.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:17.796221+00:00", "domain": "vdlb.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:21.057797+00:00", "domain": "zenestate.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:23.677481+00:00", "domain": "cosmoliving.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:26.227639+00:00", "domain": "optima-gmbh.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:29.015353+00:00", "domain": "hetzer-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:32.184026+00:00", "domain": "prima-immo.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:35.211315+00:00", "domain": "wertstabil.eu", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:38.579095+00:00", "domain": "processcie.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:41.492674+00:00", "domain": "gawehn.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:44.192321+00:00", "domain": "meister-grundbesitz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:47.468709+00:00", "domain": "optas-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:50.288840+00:00", "domain": "muehlberger-fest.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:53.103107+00:00", "domain": "benea-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:55.896090+00:00", "domain": "hirtenberg-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:26:59.046217+00:00", "domain": "buena.com", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:02.068464+00:00", "domain": "puragroup.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Property Management Als ihr Verwalter sorgen wir für das operative Management ih'"]}
+{"ts": "2026-11-07T13:27:04.259044+00:00", "domain": "puragroup.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:07.011250+00:00", "domain": "ralph-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:10.201045+00:00", "domain": "bauland-gmbh.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:12.992062+00:00", "domain": "hv-manthei.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Neben allen Aufgaben der WEG- und Miethausverwaltung übernehmen wir für Sie gern'"]}
+{"ts": "2026-11-07T13:27:16.129324+00:00", "domain": "hv-manthei.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Neben allen Aufgaben der WEG- und Miethausverwaltung übernehmen wir für Sie gern'"]}
+{"ts": "2026-11-07T13:27:22.487125+00:00", "domain": "hv-manthei.de", "attempt": 3, "model": "claude-sonnet-5-5", "step": "escalated", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Bereits in der dritten Generation verwalten und betreuen wir für unsere Auftragg'"]}
+{"ts": "2026-11-07T13:27:25.238166+00:00", "domain": "wolf-immobilien-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:28.161090+00:00", "domain": "khhaus.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:31.729133+00:00", "domain": "hv-klotz.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:34.466257+00:00", "domain": "wobege.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:37.546690+00:00", "domain": "braunundhubertus.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["units_managed: evidence quote not found verbatim in the excerpt: 'die gegenwärtig durch uns erfolgten Betreuung von ca. 2000 Einheiten'"]}
+{"ts": "2026-11-07T13:27:40.367873+00:00", "domain": "braunundhubertus.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:43.791123+00:00", "domain": "cramer-treuhand-berlin.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:46.460075+00:00", "domain": "hgvf.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:48.933654+00:00", "domain": "immoart.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:51.454601+00:00", "domain": "matera.eu", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:54.389608+00:00", "domain": "findus-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:57.062418+00:00", "domain": "proplink.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:27:59.974806+00:00", "domain": "zira-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:02.901727+00:00", "domain": "immobilienkontor.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:05.823779+00:00", "domain": "piepenburg.berlin", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:08.627028+00:00", "domain": "koenigstadt-brack.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["is_property_manager: evidence quote not found verbatim in the excerpt: 'Wohnungseigentumsverwaltung Fachkundige Betreuung ihrer Eigentümergemeinschaft'"]}
+{"ts": "2026-11-07T13:28:11.531241+00:00", "domain": "koenigstadt-brack.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:14.466692+00:00", "domain": "nestler-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:17.073994+00:00", "domain": "uj-immobilien.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:19.769094+00:00", "domain": "iv-bruehl.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": false, "errors": ["units_managed: number 748 does not appear in its evidence quote"]}
+{"ts": "2026-11-07T13:28:23.428169+00:00", "domain": "iv-bruehl.de", "attempt": 2, "model": "claude-haiku-5-5", "step": "retry with feedback", "passed": false, "errors": ["units_managed: number 748 does not appear in its evidence quote"]}
+{"ts": "2026-11-07T13:28:29.572221+00:00", "domain": "iv-bruehl.de", "attempt": 3, "model": "claude-sonnet-5-5", "step": "escalated", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:32.626324+00:00", "domain": "woelki-hv.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
+{"ts": "2026-11-07T13:28:35.593351+00:00", "domain": "bucher-grundstuecksservice.de", "attempt": 1, "model": "claude-haiku-5-5", "step": "first pass", "passed": true, "errors": []}
