@@ -20,7 +20,7 @@ import pandas as pd
 DATA = Path(__file__).resolve().parent.parent / "data"
 
 WEIGHTS = {
-    "size_fit": 20,          # 50-2,000 units: big enough to matter, small enough to switch fast
+    "size_fit": 20,          # 300-2,000 units: big enough to matter, small enough to switch fast
     "rental_focus": 15,      # rental: landlord decides; WEG needs an owners' vote (slower)
     "vdiv_member": 15,       # Heidi is a VDIV Kooperationspartner: warm channel
     "reachable_dm": 15,      # named decision maker (+ personal email)

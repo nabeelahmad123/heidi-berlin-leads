@@ -39,7 +39,7 @@ A failed check is not the end:
    any manual fix in `data/corrections.csv`, which is applied on top of the model
    output and listed in the sheet. Nothing is edited silently.
 
-Every attempt is logged in `data/check_log.jsonl`. Final run (84 sites): 78 passed first time, 3 fixed by retry, 1 fixed by
+Every attempt is logged in `data/check_log.jsonl` (the local `extract_log.jsonl` without token counts). Final run (84 sites): 78 passed first time, 3 fixed by retry, 1 fixed by
 escalation, 2 flagged and resolved by human review.
 
 ### Evaluation
